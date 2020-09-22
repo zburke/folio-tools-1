@@ -6,3 +6,4 @@ A collection of tools and various bits used primarily by FOLIO CI to build and d
  * packaging - Experimental debian packaging scripts using Docker and git-buildpackage.
  * cql_log_parse - For parsing cql-to-sql translations from Okapi log files.
  * vufind-indexer - Experimental indexer for ingesting instance records to Solr
+ * add-user - Add users and permissions
